@@ -53,8 +53,8 @@ body{
 }
 
 .divider{
-    width:900px;
-    max-width:90%;
+    width:1200px;
+    max-width:100%;
     height:10px;
     background:#6b8798;
     margin:20px 0 35px;
@@ -225,7 +225,8 @@ body{
             </p>
 
             <p>
-               I hail from the island of Guam, and am currently a PhD candidate in the Department of Linguistics at University of Alberta, where I work with Johanne Paradis. 
+               I hail from the island of Guam, and am currently a PhD candidate in the Department of Linguistics at the <a href="https://www.ualberta.ca/index.html">University of Alberta</a>, 
+               where I work with <a href="https://apps.ualberta.ca/directory/person/jparadis">Johanne Paradis</a>. 
                I received my Bachelor's in Linguistics at <a href="https://www.harvard.edu/">Harvard University</a>, 
                where I worked with <a href="https://psychology.fas.harvard.edu/people/jesse-snedeker">Jesse Snedeker</a>, 
                and my MPhil in Linguistics from the <a href="https://www.cuhk.edu.hk">Chinese University of Hong Kong</a>, 
