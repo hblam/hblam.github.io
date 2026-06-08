@@ -221,7 +221,7 @@ body{
         <div class="bio">
 
             <p>
-               <a href="https://www.visitguam.com/chamorro-culture/simple-chamorro-greetings/">Hafa Adai /hafa deɪ/</a> and welcome to my tiny corner of the worldwide web!
+               <a href="https://www.visitguam.com/chamorro-culture/simple-chamorro-greetings/">Hafa Adai &#47;hafa deɪ&#47;</a> and welcome to my tiny corner of the worldwide web!
             </p>
 
             <p>
