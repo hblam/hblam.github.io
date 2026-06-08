@@ -103,7 +103,7 @@ body{
 
 .about{
     background:#f4f4f4;
-    padding:100px 10%;
+    padding:10px;
 }
 
 .about-container{
@@ -221,7 +221,7 @@ body{
         <div class="bio">
 
             <p>
-               <a href="https://www.visitguam.com/chamorro-culture/simple-chamorro-greetings/">Hafa Adai</a> and welcome to my tiny corner of the worldwide web!
+               <a href="https://www.visitguam.com/chamorro-culture/simple-chamorro-greetings/">Hafa Adai /hafa deɪ/</a> and welcome to my tiny corner of the worldwide web!
             </p>
 
             <p>
