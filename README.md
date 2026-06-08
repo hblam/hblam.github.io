@@ -199,9 +199,9 @@ body{
         </div>
 
         <div class="links">
-            • <a href="mailto:hblam@ualberta.ca">EMAIL</a>
-            • <a href="https://orcid.org/0000-0002-8526-3795">ORCID</a>
-            • <a href="https://docs.google.com/document/d/1vMRHykCBCrKMlwXysDEIk-SCK1UXIUdFdrKHcKQ017Y/edit?tab=t.0">CV</a>
+            ▪ <a href="mailto:hblam@ualberta.ca">EMAIL</a>
+            ▪ <a href="https://orcid.org/0000-0002-8526-3795">ORCID</a>
+            ▪ <a href="https://docs.google.com/document/d/1vMRHykCBCrKMlwXysDEIk-SCK1UXIUdFdrKHcKQ017Y/edit?tab=t.0">CURRICULUM VITÆ</a>
         </div>
 
     </div>
@@ -225,7 +225,7 @@ body{
             </p>
 
             <p>
-               I hail from the island of Guam, and am currently a PhD candidate in the Department of Linguistics at the <a href="https://www.ualberta.ca/index.html">University of Alberta</a>, 
+               I hail from the island of <a href="https://www.guampedia.com/about-guam/">Guåhan</a>, and am currently a PhD candidate in the Department of Linguistics at the <a href="https://www.ualberta.ca/index.html">University of Alberta</a>, 
                where I work with <a href="https://apps.ualberta.ca/directory/person/jparadis">Johanne Paradis</a>. 
                I received my Bachelor's in Linguistics at <a href="https://www.harvard.edu/">Harvard University</a>, 
                where I worked with <a href="https://psychology.fas.harvard.edu/people/jesse-snedeker">Jesse Snedeker</a>, 
